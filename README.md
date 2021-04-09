@@ -3,7 +3,7 @@
 ## 1.作业1
 利用词云、柱状图、折线图对上次作业的红楼梦词频分析进行了可视化
 
-[作业1链接](https://jpy0830.github.io/line.html)
+[作业1链接](https://jpy0830.github.io/frequency.html)
 ## 2.作业2
 利用地理折线图对法硕流动去向进行了可视化
 
