@@ -5,7 +5,7 @@
 
 [作业1链接](https://jpy0830.github.io/frequency.html)
 ## 2.作业2
-利用地理折线图对法硕流动去向进行了可视化
+利用地理折线图对北京大学法学与法律硕士的省份流动去向进行了可视化
 
 [作业2链接](https://jpy0830.github.io/geo.html)
 ## 3.作业3
